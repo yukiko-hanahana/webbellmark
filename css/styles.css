@@ -14,9 +14,9 @@ header {
   /* background-color: skyblue; */
   width: 400px;
   margin-left: auto;
-  margin-right: auto;
+  margin-right: auto; 
   display: flex;
-  align-items: center;
+  /* align-items: center; */
 }
 
 .icon {
@@ -34,6 +34,7 @@ header {
   font-weight: normal;
   font-size: 24px;
 }
+
 
 .btn {
   background-color:skyblue;
@@ -85,9 +86,10 @@ header {
 }
 
 .end{
-  display: flex;
   margin-top:20px;
 }
+
+
 /*==============
 LINE風フキダシ
 ===============*/
